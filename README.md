@@ -1,4 +1,4 @@
-**Due: midnight after Lecture 19**
+**Due: midnight after Lecture 20**
 
  
 * Note: Homework Assignment 5 is to be completed individually. 
