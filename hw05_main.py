@@ -6,25 +6,13 @@ References: (anything you checked to solve this)
 
 def get_user_word():
     """ asks the user for a word with 3 or more characters"""
-    while True:
-        word = input("Provide a word with more than 3 characters: ")
-        if " " in word:
-            print("Error: You provided more than one word")
-            continue
-        if len(word) < 3:
-            print("Error: The word is too short")
-            continue
-        break
-    return word
+    # replace the placeholder return below with your own code
+    return ""
 
 def count_in_text(user_word, word_list):
-  """counts each time the user word is found in the word list for the text"""
-  counter = 0
-  for w in word_list:
-    if user_word in w :
-      counter+= 1
-  print(f"The word '{user_word}' is found {counter} times in the text")
-
+    """counts each time the user word is found in the word list for the text"""
+    # replace the placeholder return below with your own code
+    pass
 
 ## ------- DO NOT MODIFY ANYTHING BELOW THIS LINE
 
